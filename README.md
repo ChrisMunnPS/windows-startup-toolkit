@@ -59,7 +59,7 @@ The HTML dashboard includes color‑coded tables and DuckDuckGo search links for
 
 ```powershell
 # Clone repo
-git clone https://github.com/yourusername/windows-startup-toolkit.git
+git clone https://github.com/ChrisMunnPS/windows-startup-toolkit.git
 cd windows-startup-toolkit
 
 # Run script
