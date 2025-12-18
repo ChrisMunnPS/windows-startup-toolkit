@@ -131,5 +131,3 @@ Open the HTML report for a color‑coded dashboard and quick DuckDuckGo links.
 
 MIT License. See [LICENSE](LICENSE) for details.
 ```
-
----
